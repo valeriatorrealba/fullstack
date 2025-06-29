@@ -67,6 +67,6 @@ git status
 
 14. Se sube imagenes de como se realizo
 
-![Paso 1](img/001.png)
-![Paso 2](img/002.png)
-![Paso 3](img/003.png)
+![Paso 1](img/001.PNG)
+![Paso 2](img/002.PNG)
+![Paso 2](img/003.PNG)
